@@ -3,6 +3,9 @@
 
 This is an implementation of the word game Boggle in Python using Tkinter for the graphical interface.
 
+
+![image](https://github.com/gavishap/Boggle-Game/assets/71888304/c58b7691-0b70-423d-9f69-7be8a367941d)
+
 ## Overview
 
 - Generates a random 4x4 Boggle board using a list of letter dice
